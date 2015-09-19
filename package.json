@@ -1,0 +1,12 @@
+{
+  "name": "DigestYourFeed",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "*",
+    "express": "^4.13.3",
+    "facebook-chat-api": "*"
+  },
+  "license":"https://raw.githubusercontent.com/ShivanKaul/DigestYourFeed/master/LICENSE.md",
+  "repository":"https://github.com/ShivanKaul/DigestYourFeed/"
+
+}
