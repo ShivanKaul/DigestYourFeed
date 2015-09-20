@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "dependencies": {
     "bluebird": "*",
+    "body-parser": "^1.14.0",
     "express": "^4.13.3",
+    "express-ssl": "^3.1.0",
     "facebook-chat-api": "*"
   },
-  "license":"https://raw.githubusercontent.com/ShivanKaul/DigestYourFeed/master/LICENSE.md",
-  "repository":"https://github.com/ShivanKaul/DigestYourFeed/"
-
+  "license": "https://raw.githubusercontent.com/ShivanKaul/DigestYourFeed/master/LICENSE.md",
+  "repository": "https://github.com/ShivanKaul/DigestYourFeed/"
 }
